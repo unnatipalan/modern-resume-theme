@@ -24,7 +24,7 @@ linkedin_username: unnati-palan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Data Analyst & Report Developer with Research Background in [Cognitive Science](https://medium.com/@jiajingguo/how-is-data-visualization-influenced-by-our-cognitive-processes-281d8486abfe), comfortable with visualization of business data in [Tableau](https://public.tableau.com/profile/unnati7899#!/). With data insights, I help businesses succeed.
+Data Analyst & Report Developer with Research Background in <mark>Cognitive Science</mark>, comfortable with visualization of business data in <mark>Tableau</mark>. With data insights, I help businesses succeed.
 
   I am most skilled in: <mark>Tableau</mark> and <mark>SQL</mark>
 
