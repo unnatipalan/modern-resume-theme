@@ -3,13 +3,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Unnati Palan
+title: Data Analyst
+email: unnatipalan@gmail.com
 phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+website: unnatipalan.github.io
 
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
