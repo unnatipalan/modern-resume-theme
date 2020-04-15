@@ -9,24 +9,24 @@ email: unnati.palan@gmail.com
 website: https://unnatipalan.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: datakitten
+github_username:  unnatipalan
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: unnati-palan
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+Data Analyst & Report Developer with Research Background in [Cognitive Science](https://medium.com/@jiajingguo/how-is-data-visualization-influenced-by-our-cognitive-processes-281d8486abfe), comfortable with visualization of business data in [Tableau](https://public.tableau.com/profile/unnati7899#!/). With data insights, I help businesses succeed.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Tableau</mark> and <mark>SQL</mark>
 
 # Projects Section
 # projects_title: Projects
